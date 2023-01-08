@@ -35,7 +35,7 @@ A solutions-driven and detail-oriented project manager with over 10 years of exp
 ##### Media & Methods and What’s New Magazines, Philadelphia, PA
 >Associate Editor – September 2002 to November 2005
 >
->Editorial Assistant** – November 2001 to August 2002
+>Editorial Assistant – November 2001 to August 2002
 
 * Conducted interviews and wrote and edited copy (the written material) for articles.
 * Researched and compiled information for articles, sidebars, and catalogs.
@@ -50,8 +50,7 @@ University of Belgrade, Belgrade, Yugoslavia, May 1995
 Studies in English Language and Literature
 
 ### Certificate 
-Google Project Management Certificate, December 2022
-https://coursera.org/verify/professional-cert/6WF3X7YGJEZA
+Google Project Management [Certificate](https://coursera.org/verify/professional-cert/6WF3X7YGJEZA), December 2022
 
 ### References 
 References are available upon request. 
