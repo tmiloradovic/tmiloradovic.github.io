@@ -1,3 +1,15 @@
-**Hi,** I’m just starting on GitHub.
+# Hello!
 
-I am a Serb who has lived almost a half of her life here. I’ve done most of my schooling there and some here. I started my career working for two small trade magazines in the early 2000s, then I transitioned into project management in publishing several years later. I took several years off to write a novel and help my family through the crazy pandemic times... and I thought I’d share my resume [here](./resume.md). 
+I'm Tanja. 
+I've done a lot of project management, mostly in the publishing industry. After going freelance for some years, working on my creative writing for a few more, I'm getting back into the project management business.
+
+To jump start the process, I began with getting a [project management certificate from Google on coursera](https://www.coursera.org/professional-certificates/google-project-management)!
+
+Feel free to check out any of the folowing:
+
+ - my [resume](./resume.md). 
+ - my [LinkedIn profile](https://www.linkedin.com/in/tatjana-miloradovic-5466598/)
+ - my Google project management cert [on coursera](https://www.coursera.org/account/accomplishments/professional-cert/6WF3X7YGJEZA)
+ - some creative writing 🖋️
+	 - my old blog (...ask me!)
+	 - some stories (... ask me!) 

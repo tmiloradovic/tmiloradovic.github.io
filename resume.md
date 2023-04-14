@@ -42,7 +42,8 @@ A solutions-driven and detail-oriented project manager with over 10 years of exp
 * Reported on product news and announcements from trade shows.
 * Coordinated and edited product reviews.
 
-### Education 
+
+### Education: 🎓
 Arcadia University, Glenside, PA, May 2001
 Bachelor of Arts in English, Magna cum Laude
 
